@@ -1,0 +1,11 @@
+F:\S2229\one\frmone\frmone\bin\Debug\frmone.exe.config
+F:\S2229\one\frmone\frmone\bin\Debug\frmone.exe
+F:\S2229\one\frmone\frmone\bin\Debug\frmone.pdb
+F:\S2229\one\frmone\frmone\obj\Debug\frmone.csprojResolveAssemblyReference.cache
+F:\S2229\one\frmone\frmone\obj\Debug\frmone.frmeinsert.resources
+F:\S2229\one\frmone\frmone\obj\Debug\frmone.Properties.Resources.resources
+F:\S2229\one\frmone\frmone\obj\Debug\frmone.csproj.GenerateResource.Cache
+F:\S2229\one\frmone\frmone\obj\Debug\frmone.exe
+F:\S2229\one\frmone\frmone\obj\Debug\frmone.pdb
+F:\S2229\one\frmone\frmone\obj\Debug\frmone.frmzhu.resources
+F:\S2229\one\frmone\frmone\obj\Debug\frmone.FrmLogin.resources
